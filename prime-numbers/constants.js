@@ -1,0 +1,7 @@
+const FIRST_PRIME = 2;
+const LAST_PRIME_POSITION = 10001;
+
+module.exports = {
+	FIRST_PRIME,
+	LAST_PRIME_POSITION
+};
